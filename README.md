@@ -119,7 +119,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <table align="center">
 <tr>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="45%" valign="top">
 
 ### ☕ Java
 
@@ -129,11 +129,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <b>Programming in Java</b>
 
-<br>
-
 <sub>Jan–Apr 2025</sub>
-
-<br><br>
 
 🏅 <b>Elite Certification</b>
 
@@ -151,11 +147,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <b>AWS Cloud Practitioner Essentials</b>
 
-<br>
-
 <sub>Completed · April 2026</sub>
-
-<br><br>
 
 ☁️ <b>Cloud Fundamentals</b>
 
@@ -173,11 +165,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <b>Research Publication</b>
 
-<br>
-
 <sub>IEEE Xplore · 2026</sub>
-
-<br><br>
 
 📘 <b>Plug-and-Play WhatsApp<br>Communication Engine</b>
 
