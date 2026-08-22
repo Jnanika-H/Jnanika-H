@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Jnanika-H/Jnanika-H/blob/main/resume.pdf" target="_blank">
+<a href="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/main/resume.pdf" target="_blank">
 <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
