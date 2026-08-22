@@ -116,10 +116,10 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ## 🏆 Certifications & Research
 
-<table align="center">
+<table align="center" width="100%" style="table-layout: fixed;">
 <tr>
 
-<td align="center" width="45%" valign="top">
+<td align="center" width="33.33%" valign="top">
 
 ### ☕ Java
 
@@ -128,14 +128,12 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <br><br>
 
 <b>Programming in Java</b>
-
 <sub>Jan–Apr 2025</sub>
-
 🏅 <b>Elite Certification</b>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33.33%" valign="top">
 
 ### ☁️ AWS
 
@@ -146,14 +144,12 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <br><br>
 
 <b>AWS Cloud Practitioner Essentials</b>
-
 <sub>Completed · April 2026</sub>
-
 ☁️ <b>Cloud Fundamentals</b>
 
 </td>
 
-<td align="center" width="33%" valign="top">
+<td align="center" width="33.33%" valign="top">
 
 ### 📄 IEEE
 
@@ -164,10 +160,8 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <br><br>
 
 <b>Research Publication</b>
-
 <sub>IEEE Xplore · 2026</sub>
-
-📘 <b>Plug-and-Play WhatsApp<br>Communication Engine</b>
+📘 <b>Plug-and-Play WhatsApp Communication Engine</b>
 
 </td>
 
