@@ -83,11 +83,11 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="./github-metrics.svg" width="100%" alt="Jnanika's GitHub Metrics">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jnanika-H&theme=tokyo-night&hide_border=true&area=true&custom_title=Jnanika's%20Contribution%20Activity" width="95%" />
 
 </div>
 
@@ -117,65 +117,59 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ---
 
+---
+
 ## 🏆 Certifications & Research
 
-<div align="center">
-
-<table>
+<table align="center">
 <tr>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
-### ☕ JAVA
+### ☕ Java
 
-<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-orange?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/NPTEL-Elite-orange?style=for-the-badge&logo=java&logoColor=white">
 
-<br><br>
-
-**Elite Certification**
-
-<br>
+**Programming in Java**
 
 `Jan–Apr 2025`
 
+**Elite Certification**
+
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### ☁️ AWS
 
 <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 
-<br><br>
-
-**Cloud Fundamentals**
-
-<br>
+**Cloud Practitioner Essentials**
 
 `AWS Training`
 
+**Cloud Fundamentals**
+
 </td>
 
-<td width="33%" align="center">
+<td align="center" width="33%">
 
 ### 📄 IEEE
 
 <img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white">
 
-<br><br>
-
 **Research Publication**
 
-<br>
+`IEEE Xplore`
 
-`Plug-and-Play WhatsApp Communication Engine`
+**Plug-and-Play WhatsApp Communication Engine**
 
 </td>
 
 </tr>
 </table>
 
-</div>
+---
 
 ---
 
@@ -184,27 +178,6 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <div align="center">
 
 **LEARN** → **BUILD** → **EXPERIMENT** → **DEBUG** → **UNDERSTAND** → **IMPROVE**
-
-<br><br>
-
-⚡ **BUILD BETTER**
-
-</div>
-
----
-
-## 🎯 Engineering Focus
-
-<div align="center">
-
-| 🧩 Area | 🔍 Focus |
-| --- | --- |
-| ☕ **Backend** | APIs · Services · Application Logic |
-| 🤖 **AI / ML** | Intelligent Applications · Automation |
-| ☁️ **Cloud** | AWS · Cloud Infrastructure |
-| 🔄 **DevOps** | CI/CD · Containers · Automation |
-| 🐧 **Linux** | Systems · Scripting · Infrastructure |
-| 🏗️ **System Design** | Reliable · Maintainable Software |
 
 </div>
 
@@ -215,8 +188,6 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <div align="center">
 
 **Curiosity → Consistency → Experimentation → Growth**
-
-<br>
 
 I believe the best way to learn technology is to **build with it, break it, understand it, and build it better.**
 
