@@ -128,7 +128,9 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <br><br>
 
 <b>Programming in Java</b>
+
 <sub>Jan–Apr 2025</sub>
+
 🏅 <b>Elite Certification</b>
 
 </td>
