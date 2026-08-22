@@ -87,9 +87,13 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jnanika-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats">
+<a href="https://github.com/Jnanika-H">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jnanika-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="Jnanika's GitHub Stats">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanika-H&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+<a href="https://github.com/Jnanika-H">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanika-H&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Jnanika's Top Languages">
+</a>
 
 </div>
 
@@ -123,11 +127,59 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <div align="center">
 
-| 🎓 Achievement | Details |
-| --- | --- |
-| **Programming in Java** | NPTEL · Elite Certification · 2025 |
-| **AWS Cloud Practitioner Essentials** | AWS Cloud Fundamentals |
-| **IEEE Xplore Publication** | Plug-and-Play WhatsApp Communication Engine |
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### ☕ JAVA
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-orange?style=for-the-badge&logo=java&logoColor=white">
+
+<br><br>
+
+**Elite Certification**
+
+<br>
+
+`Jan–Apr 2025`
+
+</td>
+
+<td width="33%" align="center">
+
+### ☁️ AWS
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+
+<br><br>
+
+**Cloud Fundamentals**
+
+<br>
+
+`AWS Training`
+
+</td>
+
+<td width="33%" align="center">
+
+### 📄 IEEE
+
+<img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white">
+
+<br><br>
+
+**Research Publication**
+
+<br>
+
+`Plug-and-Play WhatsApp Communication Engine`
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -137,19 +189,11 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <div align="center">
 
-**LEARN**  
-↓  
-**BUILD**  
-↓  
-**EXPERIMENT**  
-↓  
-**DEBUG**  
-↓  
-**UNDERSTAND**  
-↓  
-**IMPROVE**  
-↓  
-**BUILD BETTER**
+**LEARN** → **BUILD** → **EXPERIMENT** → **DEBUG** → **UNDERSTAND** → **IMPROVE**
+
+<br><br>
+
+⚡ **BUILD BETTER**
 
 </div>
 
@@ -193,9 +237,6 @@ I believe the best way to learn technology is to **build with it, break it, unde
 <a href="https://www.linkedin.com/in/jnanika-h">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
-&nbsp;
-
 <a href="https://github.com/Jnanika-H">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
