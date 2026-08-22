@@ -1,34 +1,33 @@
 <div align="center">
 
-# ⚡ JNANIKA H
+# JNANIKA H
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;Full-Stack+Developer;Cloud+%26+DevOps+Engineer" alt="Typing Animation" />
 
 <br>
 
-<div align="center">
+⚡ **BUILD · AUTOMATE · DEPLOY · LEARN**
+
+<br>
 
 <a href="https://www.linkedin.com/in/jnanika-h">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://github.com/Jnanika-H">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="mailto:hjnanika@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="YOUR_RESUME_LINK">
+
+<a href="https://github.com/Jnanika-H/Jnanika-H/blob/main/resume.pdf">
 <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
-</div>
-
-<br>
-
-<div align="center">
-
-⚡ **BUILD · AUTOMATE · DEPLOY · LEARN**
 
 </div>
+
 ---
 
 ## 👋 About Me
@@ -120,7 +119,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <table align="center">
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### ☕ Java
 
@@ -140,14 +139,12 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### ☁️ AWS
 
 <a href="https://www.coursera.org/account/accomplishments/verify/9BCAWY2O4DPL">
-
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
 </a>
 
 <br><br>
@@ -160,18 +157,16 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <br><br>
 
-🔗 <b><a href="https://www.coursera.org/account/accomplishments/verify/9BCAWY2O4DPL">View Credential</a></b>
+☁️ <b>Cloud Fundamentals</b>
 
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="33%" valign="top">
 
 ### 📄 IEEE
 
 <a href="https://ieeexplore.ieee.org/document/11483458">
-
 <img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
-
 </a>
 
 <br><br>
@@ -184,11 +179,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <br><br>
 
-📘 <b>Plug-and-Play WhatsApp Communication Engine</b>
-
-<br>
-
-🔗 <b><a href="https://ieeexplore.ieee.org/document/11483458">View Paper</a></b>
+📘 <b>Plug-and-Play WhatsApp<br>Communication Engine</b>
 
 </td>
 
