@@ -65,29 +65,147 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ## 🧭 Currently Learning
 
-```text
-Backend Engineering
-        ↓
-System Design
-        ↓
-Cloud Architecture
-        ↓
-DevOps & CI/CD
-        ↓
-AI-powered Applications
-        ↓
-Production-ready Systems
+<table align="center">
+<tr>
+<td align="center">🔧<br><b>Backend Engineering</b></td>
+<td>→</td>
+<td align="center">🏗️<br><b>System Design</b></td>
+<td>→</td>
+<td align="center">☁️<br><b>Cloud Architecture</b></td>
+<td>→</td>
+<td align="center">⚙️<br><b>DevOps & CI/CD</b></td>
+<td>→</td>
+<td align="center">🤖<br><b>AI Applications</b></td>
+<td>→</td>
+<td align="center">🚀<br><b>Production Systems</b></td>
+</tr>
+</table>
 
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jnanika-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanika-H&layout=compact&theme=tokyonight&hide_border=true" height="180" /> </div>
+---
 
-📈 Contribution Activity
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jnanika-H&theme=tokyo-night&hide_border=true&area=true" width="95%" /> </div>
+## 📊 GitHub Analytics
 
-🐍 Contribution Journey
-<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/output/github-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/output/github-snake.svg"> <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/output/github-snake.svg" width="95%"> </picture> </div>
+<div align="center">
 
-🔗 Connect
-<div align="center"> <a href="https://www.linkedin.com/in/jnanika-h"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/Jnanika-H"> <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br> <div align="center">
-⚡ BUILD · AUTOMATE · DEPLOY · LEARN
-</div> ```
+<img src="https://github-readme-stats.vercel.app/api?username=Jnanika-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanika-H&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jnanika-H&theme=tokyo-night&hide_border=true&area=true&custom_title=Jnanika%27s%20Contribution%20Activity" width="95%" alt="Contribution Graph">
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/output/github-snake.svg" width="95%" alt="GitHub Contribution Snake">
+</picture>
+
+</div>
+
+---
+
+## 🏆 Certifications & Research
+
+<div align="center">
+
+| 🎓 Achievement | Details |
+| --- | --- |
+| **Programming in Java** | NPTEL · Elite Certification · 2025 |
+| **AWS Cloud Practitioner Essentials** | AWS Cloud Fundamentals |
+| **IEEE Xplore Publication** | Plug-and-Play WhatsApp Communication Engine |
+
+</div>
+
+---
+
+## 🔄 Learning Loop
+
+<div align="center">
+
+**LEARN**  
+↓  
+**BUILD**  
+↓  
+**EXPERIMENT**  
+↓  
+**DEBUG**  
+↓  
+**UNDERSTAND**  
+↓  
+**IMPROVE**  
+↓  
+**BUILD BETTER**
+
+</div>
+
+---
+
+## 🎯 Engineering Focus
+
+<div align="center">
+
+| 🧩 Area | 🔍 Focus |
+| --- | --- |
+| ☕ **Backend** | APIs · Services · Application Logic |
+| 🤖 **AI / ML** | Intelligent Applications · Automation |
+| ☁️ **Cloud** | AWS · Cloud Infrastructure |
+| 🔄 **DevOps** | CI/CD · Containers · Automation |
+| 🐧 **Linux** | Systems · Scripting · Infrastructure |
+| 🏗️ **System Design** | Reliable · Maintainable Software |
+
+</div>
+
+---
+
+## 🌱 Beyond Code
+
+<div align="center">
+
+**Curiosity → Consistency → Experimentation → Growth**
+
+<br>
+
+I believe the best way to learn technology is to **build with it, break it, understand it, and build it better.**
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/jnanika-h">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Jnanika-H">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+⚡ **BUILD · AUTOMATE · DEPLOY · LEARN**
+
+</div>
