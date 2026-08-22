@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Jnanika-H/Jnanika-H/blob/main/resume.pdf">
+<a href="https://raw.githubusercontent.com/Jnanika-H/Jnanika-H/main/resume.pdf">
 <img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 
@@ -129,9 +129,9 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <b>Programming in Java</b>
 
-<sub>Jan–Apr 2025</sub>
+<sub>Jan – Apr 2025</sub>
 
-🏅 <b>Elite Certification</b>
+🏅<b>Elite Certification</b>
 
 </td>
 
@@ -146,8 +146,10 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <br><br>
 
 <b>AWS Cloud Practitioner Essentials</b>
+
 <sub>Completed · April 2026</sub>
-☁️ <b>Cloud Fundamentals</b>
+
+☁️<b>Cloud Fundamentals</b>
 
 </td>
 
@@ -162,8 +164,10 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 <br><br>
 
 <b>Research Publication</b>
+
 <sub>IEEE Xplore · 2026</sub>
-📘 <b>Plug-and-Play WhatsApp Communication Engine</b>
+
+📘<b>Plug-and-Play WhatsApp Communication Engine</b>
 
 </td>
 
