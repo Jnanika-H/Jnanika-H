@@ -87,13 +87,7 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <div align="center">
 
-<a href="https://github.com/Jnanika-H">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jnanika-H&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" alt="Jnanika's GitHub Stats">
-</a>
-
-<a href="https://github.com/Jnanika-H">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnanika-H&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Jnanika's Top Languages">
-</a>
+<img src="./github-metrics.svg" width="100%" alt="Jnanika's GitHub Metrics">
 
 </div>
 
