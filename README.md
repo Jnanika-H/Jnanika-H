@@ -35,25 +35,31 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ## ⚙️ Technology Stack
 
+<div align="center">
+
 ### 💻 Languages
 
-`Java` · `Python` · `JavaScript` · `TypeScript` · `SQL`
+<img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+
+<br><br>
 
 ### 🔧 Backend & APIs
 
-`Spring Boot` · `Node.js` · `Express.js` · `FastAPI` · `Flask` · `REST APIs`
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,flask" />
+
+<br><br>
 
 ### ☁️ Cloud & DevOps
 
-`AWS` · `Docker` · `Jenkins` · `Linux` · `Git` · `CI/CD`
+<img src="https://skillicons.dev/icons?i=aws,docker,jenkins,linux,git,github" />
+
+<br><br>
 
 ### 🗄️ Databases
 
-`PostgreSQL` · `MongoDB` · `MySQL` · `SQLite` · `Redis`
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,redis" />
 
-### 🧠 Core Computer Science
-
-`Data Structures & Algorithms` · `OOP` · `DBMS` · `Operating Systems` · `Computer Networks`
+</div>
 
 ---
 
