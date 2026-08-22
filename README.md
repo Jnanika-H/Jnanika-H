@@ -2,25 +2,33 @@
 
 # ⚡ JNANIKA H
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+%7C+AI%2FML+%7C+Cloud+%7C+DevOps;Building+Practical+Software+Systems;Always+Learning+%7C+Always+Building" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Developer;Backend+Developer;Full-Stack+Developer;Cloud+%26+DevOps+Engineer" alt="Typing Animation" />
 
 <br>
 
-**BUILD · AUTOMATE · DEPLOY · LEARN**
+<div align="center">
 
-<br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-
+<a href="https://www.linkedin.com/in/jnanika-h">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Jnanika-H">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:hjnanika@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.shields.io/badge/Resume-View-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
 </div>
 
+<br>
+
+<div align="center">
+
+⚡ **BUILD · AUTOMATE · DEPLOY · LEARN**
+
+</div>
 ---
 
 ## 👋 About Me
@@ -87,16 +95,6 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jnanika-H&theme=tokyo-night&hide_border=true&area=true&custom_title=Jnanika's%20Contribution%20Activity" width="95%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jnanika-H&theme=tokyo-night&hide_border=true&area=true&custom_title=Jnanika%27s%20Contribution%20Activity" width="95%" alt="Contribution Graph">
 
 </div>
@@ -117,8 +115,6 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ---
 
----
-
 ## 🏆 Certifications & Research
 
 <table align="center">
@@ -128,13 +124,19 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ### ☕ Java
 
-<img src="https://img.shields.io/badge/NPTEL-Elite-orange?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/NPTEL-Elite-orange?style=for-the-badge&logo=java&logoColor=white" />
 
-**Programming in Java**
+<br><br>
 
-`Jan–Apr 2025`
+<b>Programming in Java</b>
 
-**Elite Certification**
+<br>
+
+<sub>Jan–Apr 2025</sub>
+
+<br><br>
+
+🏅 <b>Elite Certification</b>
 
 </td>
 
@@ -142,13 +144,23 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ### ☁️ AWS
 
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+<a href="https://www.coursera.org/account/accomplishments/verify/9BCAWY2O4DPL">
 
-**Cloud Practitioner Essentials**
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner_Essentials-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 
-`AWS Training`
+</a>
 
-**Cloud Fundamentals**
+<br><br>
+
+<b>AWS Cloud Practitioner Essentials</b>
+
+<br>
+
+<sub>Completed · April 2026</sub>
+
+<br><br>
+
+🔗 <b><a href="https://www.coursera.org/account/accomplishments/verify/9BCAWY2O4DPL">View Credential</a></b>
 
 </td>
 
@@ -156,30 +168,32 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 
 ### 📄 IEEE
 
-<img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white">
+<a href="https://ieeexplore.ieee.org/document/11483458">
 
-**Research Publication**
+<img src="https://img.shields.io/badge/IEEE-Xplore-00629B?style=for-the-badge&logo=ieee&logoColor=white" />
 
-`IEEE Xplore`
+</a>
 
-**Plug-and-Play WhatsApp Communication Engine**
+<br><br>
+
+<b>Research Publication</b>
+
+<br>
+
+<sub>IEEE Xplore · 2026</sub>
+
+<br><br>
+
+📘 <b>Plug-and-Play WhatsApp Communication Engine</b>
+
+<br>
+
+🔗 <b><a href="https://ieeexplore.ieee.org/document/11483458">View Paper</a></b>
 
 </td>
 
 </tr>
 </table>
-
----
-
----
-
-## 🔄 Learning Loop
-
-<div align="center">
-
-**LEARN** → **BUILD** → **EXPERIMENT** → **DEBUG** → **UNDERSTAND** → **IMPROVE**
-
-</div>
 
 ---
 
@@ -194,24 +208,3 @@ I believe the best way to learn technology is to **build with it, break it, unde
 </div>
 
 ---
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jnanika-h">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://github.com/Jnanika-H">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-⚡ **BUILD · AUTOMATE · DEPLOY · LEARN**
-
-</div>
