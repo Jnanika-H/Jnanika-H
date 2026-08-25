@@ -185,5 +185,3 @@ I enjoy turning ideas into working systems, solving technical problems, and cont
 I believe the best way to learn technology is to **build with it, break it, understand it, and build it better.**
 
 </div>
-
----
